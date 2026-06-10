@@ -1,4 +1,4 @@
-[JP]()|EN
+[JP](README.md)|EN
 
 # Plans (as of April 28, 2025)
 

@@ -6,7 +6,7 @@
 * If I run out of money, development may be temporarily suspended.
 * If funding becomes insufficient, I may launch a crowdfunding campaign.
 * Some of the information written here may contain mistakes. Please don't worry about them—I will fix them eventually.
-* Progress updates will also be uploaded to my YouTube channel and Nico Nico Douga.
+* Progress updates will also be uploaded to my [YouTube channel](https://www.youtube.com/@matya-dev) and [Nico Nico Douga](https://sp.nicovideo.jp/user/144530067?cp_in=user_watchInformation).
 
 # 0 - Review the Conservation of Angular Momentum
 

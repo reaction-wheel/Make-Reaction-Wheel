@@ -5,7 +5,7 @@ JP|[EN](README.en.MD)
 - お金が無くなったら一時的に開発ストップすると思われます。
 - お金が無くなったらクラファンするかもしれません。
 - 表記が一部間違っていますが気にしないでください。そのうち直します
-- [Youtubeチャンネル](https://www.youtube.com/@matya-dev)と[ニコニコ動画](https://sp.nicovideo.jp/user/144530067?cp_in=user_watchInformation)にも進捗をアップロードしていく予定です。
+- [Youtubeチャンネル](https://www.youtube.com/@matya-dev)と[ニコニコ動画](https://sp.nicovideo.jp/user/144530067)にも進捗をアップロードしていく予定です。
 # 0-角運動量保存則の復習をする！
 # 1-1軸制御をする
 ## 1.1-パーツ選び

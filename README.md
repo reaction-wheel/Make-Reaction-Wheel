@@ -1,4 +1,4 @@
-JP|[EN](README.en.MD)
+[JP](README.md)|[EN](README.en.MD)
 
 # 予定(2025.04.28時点)
 - 大学に入ってから開始する予定です。
